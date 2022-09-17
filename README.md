@@ -1,5 +1,10 @@
 ### Olá, seja bem vindo! ✨
 
+<div>
+<a href="https://github.com/Victor001021">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Victor001021&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?Victor001021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 ![Snake animation](https://github.com/Victor001021/Victor001021/blob/output/github-contribution-grid-snake.svg)
 
 <!--
