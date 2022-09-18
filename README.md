@@ -2,8 +2,8 @@
 
 <div style="display:inline_block;padding:10px;margin:auto">
 <a href="https://github.com/Victor001021">
-<img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor001021&layout=compact&langs_count=7&theme=dark&count_private=true&bg_color=000000&border_color=00a000&icon_color=00a000&title_color=00a000&text_color=00a000"/>
-<img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor001021&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&border_color=00a000&icon_color=00a000&title_color=00a000&text_color=00a000"/>
+<img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor001021&layout=compact&langs_count=7&theme=dark&count_private=true&bg_color=000000&border_color=00a000&icon_color=00a000&title_color=00a000&text_color=00a000"/>
+<img  height="137px" src="https://github-readme-stats.vercel.app/api?username=Victor001021&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&border_color=00a000&icon_color=00a000&title_color=00a000&text_color=00a000"/>
 </div>
  
 ![Snake animation](https://github.com/Victor001021/Victor001021/blob/output/github-contribution-grid-snake.svg)
