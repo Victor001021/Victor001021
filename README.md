@@ -1,9 +1,9 @@
 ### Olá, seja bem vindo! ✨
 
-<div style="display:inline_block">
+<div style="display:inline_block;padding:10px;margin:auto">
 <a href="https://github.com/Victor001021">
-<img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor001021&layout=compact&langs_count=7&theme=dark&&count_private=true"/>
-<img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor001021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor001021&layout=compact&langs_count=7&theme=dark&&count_private=true"/>
+<img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor001021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
  
 ![Snake animation](https://github.com/Victor001021/Victor001021/blob/output/github-contribution-grid-snake.svg)
