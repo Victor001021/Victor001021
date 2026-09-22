@@ -4,7 +4,7 @@
 
 ### `C:\VICTOR\GITHUB> _`
 
- <img src="https://github.com/Victor001021/Victor001021/raw/main/terminal.png"/>
+ <img src="https://github.com/Victor001021/Victor001021/raw/main/terminal2.png"/>
 
 ### `🖥️ PERSONAL COMPUTER — DEVELOPER EDITION`
 
@@ -39,13 +39,12 @@
 ```text
 C:\VICTOR\GITHUB> hello_world.exe
 
-Hello, World!
+Olá, Mundo!
 
-I'm Victor Silva, a Computer Science graduate
-exploring the world of software development.
+Meu nome é Victor, sou formado em Ciência da Computação.
 
-Currently focused on JavaScript, React, Java
-and Android development.
+Atualmente focado em JavaScript, React, Java
+e desenvolvimento Android.
 
 C:\VICTOR\GITHUB> _
 ```
@@ -87,10 +86,7 @@ C:\MUSIC> _
 ```text
 C:\PROJECTS\REACT>
 
-├── 📂 City Explorer
-├── 📂 Quiz App
-├── 📂 Eat-N-Split
-├── 📂 Far Away
+├── 📂 F1 Quiz
 └── 📂 Various Experiments
 ```
 
@@ -99,7 +95,7 @@ C:\PROJECTS\REACT>
 ```text
 C:\PROJECTS\ANDROID>
 
-├── 📂 Soundboard
+├── 📂 Macli
 ├── 📂 Cats App
 └── 📂 Other Experiments
 ```
@@ -130,8 +126,8 @@ C:\PROJECTS\ANDROID>
 ╠════════════════════════════════════════════════════╣
 ║                                                    ║
 ║  [ OK ] Booting Victor.exe                         ║
-║  [ OK ] Loading creativity                         ║
-║  [ OK ] Loading coffee                             ║
+║  [ OK ] Loading criatividade                       ║
+║  [ OK ] Loading café                               ║
 ║  [ OK ] Loading rock                               ║
 ║  [ OK ] Loading JavaScript                         ║
 ║  [ OK ] Loading React                              ║
