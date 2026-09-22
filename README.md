@@ -4,8 +4,7 @@
 
 ### `C:\VICTOR\GITHUB> _`
 
- <img src="https://github.com/Victor001021/Victor001021/raw/main/terminal.png"
-
+ <img src="https://github.com/Victor001021/Victor001021/raw/main/terminal.png"/>
 
 ### `🖥️ PERSONAL COMPUTER — DEVELOPER EDITION`
 
@@ -60,10 +59,10 @@ C:\VICTOR\GITHUB> _
 ║                  NOW PLAYING...                    ║
 ╠════════════════════════════════════════════════════╣
 ║                                                    ║
-║   🎸 Guns N' Roses                                 ║
-║   🎸 Metallica                                     ║
-║   🎸 Avenged Sevenfold                             ║
-║   🎸 Rock / Hard Rock / Metal                      ║
+║   Guns N' Roses                                    ║
+║   Metallica                                        ║
+║   Avenged Sevenfold                                ║
+║   Rock / Hard Rock / Metal                         ║
 ║                                                    ║
 ║   CURRENT ALBUM                                    ║
 ║   └── Appetite for Destruction                     ║
@@ -130,15 +129,15 @@ C:\PROJECTS\ANDROID>
 ║                    SYSTEM LOG                      ║
 ╠════════════════════════════════════════════════════╣
 ║                                                    ║
-║  [ OK ] Booting Victor.exe                        ║
-║  [ OK ] Loading creativity                        ║
-║  [ OK ] Loading coffee                            ║
-║  [ OK ] Loading rock                              ║
-║  [ OK ] Loading JavaScript                        ║
-║  [ OK ] Loading React                             ║
-║  [ OK ] Loading Android                           ║
+║  [ OK ] Booting Victor.exe                         ║
+║  [ OK ] Loading creativity                         ║
+║  [ OK ] Loading coffee                             ║
+║  [ OK ] Loading rock                               ║
+║  [ OK ] Loading JavaScript                         ║
+║  [ OK ] Loading React                              ║
+║  [ OK ] Loading Android                            ║
 ║                                                    ║
-║  SYSTEM READY.                                    ║
+║  SYSTEM READY.                                     ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
@@ -157,16 +156,16 @@ C:\VICTOR\GITHUB> _
 ╠════════════════════════════════════════════════════╣
 ║                                                    ║
 ║  React                                             ║
-║  [████████████████████░░░░░] 80%                  ║
+║  [████████████████████░░░░░] 80%                   ║
 ║                                                    ║
 ║  JavaScript                                        ║
-║  [██████████████████░░░░░░░] 70%                  ║
+║  [██████████████████░░░░░░░] 70%                   ║
 ║                                                    ║
 ║  Android                                           ║
-║  [███████████████░░░░░░░░░░] 60%                  ║
+║  [███████████████░░░░░░░░░░] 60%                   ║
 ║                                                    ║
 ║  New Projects                                      ║
-║  [████████████░░░░░░░░░░░░░] 50%                  ║
+║  [████████████░░░░░░░░░░░░░] 50%                   ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
