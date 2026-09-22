@@ -4,7 +4,7 @@
 
 ### `C:\VICTOR\GITHUB> _`
 
-<img src="./assets/retro-terminal.png" width="100%" alt="Retro CRT Terminal">
+<img src="retro-terminal.png" width="100%" alt="Retro CRT Terminal">
 
 ### `🖥️ PERSONAL COMPUTER — DEVELOPER EDITION`
 
