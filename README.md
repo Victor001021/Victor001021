@@ -1,31 +1,159 @@
 <div align="center">
- <img src="https://github.com/Victor001021/Victor001021/raw/main/c8cf94ac74b5a43796091505bbc5cfc2.png"
+
+# 💾 VICTOR SILVA
+
+### `C:\VICTOR\GITHUB> _`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=VITOR%20SILVA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+**🖥️ PERSONAL COMPUTER — DEVELOPER EDITION**
+
+`[ ONLINE ]` `1990s MODE` `🎸 ROCK N' ROLL`
+
 </div>
-<br>
-<br>
-<div align="center" style="display:inline_block;padding:10px;margin:auto">
-<a href="https://github.com/Victor001021">
-<img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor001021&layout=compact&langs_count=7&theme=dark&count_private=true&bg_color=000000&border_color=00a000&icon_color=00a000&title_color=00a000&text_color=00a000&hide_border=true"/>
-<img  height="137px" src="https://github-readme-stats.vercel.app/api?username=Victor001021&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&border_color=00a000&icon_color=00a000&title_color=00a000&text_color=00a000&hide_border=true"/>
-</div>
- 
+
+---
+
+## 🖥️ `ABOUT_ME.EXE`
+
+```text
+╔════════════════════════════════════════════════════╗
+║                 SYSTEM INFORMATION                 ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  USER.............. Victor                         ║
+║  STATUS............ ONLINE                         ║
+║  OS................ Windows 95                     ║
+║  CPU............... Developer.exe                  ║
+║                                                    ║
+║  CURRENTLY LEARNING:                               ║
+║                                                    ║
+║     > JavaScript                                   ║
+║     > React                                        ║
+║     > Java                                         ║
+║     > Android                                      ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+> `C:\VICTOR\GITHUB> Hello, World!`
+
+I'm a Computer Science graduate exploring the world of software development.
+
+Currently focused on **JavaScript, React, Java and Android development**.
+
+---
+
+## 💿 `MY_PLAYLIST.TXT`
+
+```text
+╔════════════════════════════════════════════╗
+║              NOW PLAYING...                ║
+╠════════════════════════════════════════════╣
+║                                            ║
+║  🎸 Guns N' Roses                          ║
+║  🎸 Metallica                              ║
+║  🎸 Avenged Sevenfold                      ║
+║  🎸 Rock / Hard Rock / Metal               ║
+║                                            ║
+║  Album.exe                                 ║
+║  └── Appetite for Destruction              ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
+
+> *"Welcome to the jungle..."* 🎸
+
+---
+
+## 💾 `PROJECTS`
+
+### 📁 React
+
+```text
+C:\PROJECTS\REACT>
+
+├── 📂 City Explorer
+├── 📂 Quiz App
+├── 📂 Eat-N-Split
+├── 📂 Far Away
+└── 📂 Various Experiments
+```
+
+### 📁 Android
+
+```text
+C:\PROJECTS\ANDROID>
+
+├── 📂 Soundboard
+├── 📂 Cats App
+└── 📂 Other Experiments
+```
+
+---
+
+## 🕹️ `TECHNOLOGIES`
+
 <div align="center">
- 
- ![Snake animation](https://github.com/Victor001021/Victor001021/blob/output/github-contribution-grid-snake.svg)
- 
+
+
+
+
+
+
+\
+
 </div>
 
-<!--
-**Victor001021/Victor001021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📟 `SYSTEM.LOG`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+[1998-01-01] Booting Vitor.exe...
+[1998-01-01] Loading creativity........ OK
+[1998-01-01] Loading coffee............ OK
+[1998-01-01] Loading rock.............. OK
+[1998-01-01] Loading JavaScript........ OK
+[1998-01-01] Loading React............. OK
+[1998-01-01] Loading Android........... OK
+
+SYSTEM READY.
+
+> Start coding_
+```
+
+---
+
+## 📼 `CURRENTLY_WORKING_ON`
+
+```text
+╔════════════════════════════════════════════╗
+║              DEVELOPMENT MODE              ║
+╠════════════════════════════════════════════╣
+║                                            ║
+║  [████████████████░░░░] 80%                ║
+║                                            ║
+║  Learning React                            ║
+║  Building Android apps                     ║
+║  Improving JavaScript                      ║
+║  Creating new projects                     ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+### 🎸 `KEEP CODING. KEEP ROCKING.` 🎸
+
+```text
+C:\VITOR\GITHUB> exit
+
+Goodbye, user.
+
+C:\_ █
+```
+
+</div>
