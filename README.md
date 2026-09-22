@@ -1,27 +1,27 @@
 <div align="center">
 
-# 💾 VICTOR SILVA
+# `VICTOR SILVA`
 
 ### `C:\VICTOR\GITHUB> _`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=VITOR%20SILVA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="./assets/retro-terminal.png" width="100%" alt="Retro CRT Terminal">
 
-**🖥️ PERSONAL COMPUTER — DEVELOPER EDITION**
+### `🖥️ PERSONAL COMPUTER — DEVELOPER EDITION`
 
-`[ ONLINE ]` `1990s MODE` `🎸 ROCK N' ROLL`
+`[ ONLINE ]`   `1990s MODE`   `🎸 ROCK N' ROLL`
 
 </div>
 
 ---
 
-## 🖥️ `ABOUT_ME.EXE`
+## `C:\VICTOR\GITHUB> ABOUT_ME.EXE`
 
 ```text
 ╔════════════════════════════════════════════════════╗
 ║                 SYSTEM INFORMATION                 ║
 ╠════════════════════════════════════════════════════╣
 ║                                                    ║
-║  USER.............. Victor                         ║
+║  USER.............. Victor Silva                   ║
 ║  STATUS............ ONLINE                         ║
 ║  OS................ Windows 95                     ║
 ║  CPU............... Developer.exe                  ║
@@ -36,39 +36,53 @@
 ╚════════════════════════════════════════════════════╝
 ```
 
-> `C:\VICTOR\GITHUB> Hello, World!`
-
-I'm a Computer Science graduate exploring the world of software development.
-
-Currently focused on **JavaScript, React, Java and Android development**.
-
----
-
-## 💿 `MY_PLAYLIST.TXT`
-
 ```text
-╔════════════════════════════════════════════╗
-║              NOW PLAYING...                ║
-╠════════════════════════════════════════════╣
-║                                            ║
-║  🎸 Guns N' Roses                          ║
-║  🎸 Metallica                              ║
-║  🎸 Avenged Sevenfold                      ║
-║  🎸 Rock / Hard Rock / Metal               ║
-║                                            ║
-║  Album.exe                                 ║
-║  └── Appetite for Destruction              ║
-║                                            ║
-╚════════════════════════════════════════════╝
+C:\VICTOR\GITHUB> hello_world.exe
+
+Hello, World!
+
+I'm Victor Silva, a Computer Science graduate
+exploring the world of software development.
+
+Currently focused on JavaScript, React, Java
+and Android development.
+
+C:\VICTOR\GITHUB> _
 ```
 
-> *"Welcome to the jungle..."* 🎸
+---
+
+## `C:\VICTOR\GITHUB> MY_PLAYLIST.TXT`
+
+```text
+╔════════════════════════════════════════════════════╗
+║                  NOW PLAYING...                    ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║   🎸 Guns N' Roses                                 ║
+║   🎸 Metallica                                     ║
+║   🎸 Avenged Sevenfold                             ║
+║   🎸 Rock / Hard Rock / Metal                      ║
+║                                                    ║
+║   CURRENT ALBUM                                    ║
+║   └── Appetite for Destruction                     ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+```text
+C:\MUSIC> play "Welcome To The Jungle"
+
+[████████████████████████████████████████] PLAYING
+
+C:\MUSIC> _
+```
 
 ---
 
-## 💾 `PROJECTS`
+## `C:\VICTOR\GITHUB> PROJECTS`
 
-### 📁 React
+### `📁 REACT`
 
 ```text
 C:\PROJECTS\REACT>
@@ -80,7 +94,7 @@ C:\PROJECTS\REACT>
 └── 📂 Various Experiments
 ```
 
-### 📁 Android
+### `📁 ANDROID`
 
 ```text
 C:\PROJECTS\ANDROID>
@@ -92,68 +106,90 @@ C:\PROJECTS\ANDROID>
 
 ---
 
-## 🕹️ `TECHNOLOGIES`
+## `C:\VICTOR\GITHUB> TECH_STACK`
 
 <div align="center">
 
-
-
-
-
-
-\
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=ffffff)
 
 </div>
 
 ---
 
-## 📟 `SYSTEM.LOG`
+## `C:\VICTOR\GITHUB> SYSTEM.LOG`
 
 ```text
-[1998-01-01] Booting Vitor.exe...
-[1998-01-01] Loading creativity........ OK
-[1998-01-01] Loading coffee............ OK
-[1998-01-01] Loading rock.............. OK
-[1998-01-01] Loading JavaScript........ OK
-[1998-01-01] Loading React............. OK
-[1998-01-01] Loading Android........... OK
+╔════════════════════════════════════════════════════╗
+║                    SYSTEM LOG                      ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  [ OK ] Booting Victor.exe                        ║
+║  [ OK ] Loading creativity                        ║
+║  [ OK ] Loading coffee                            ║
+║  [ OK ] Loading rock                              ║
+║  [ OK ] Loading JavaScript                        ║
+║  [ OK ] Loading React                             ║
+║  [ OK ] Loading Android                           ║
+║                                                    ║
+║  SYSTEM READY.                                    ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
 
-SYSTEM READY.
-
-> Start coding_
+```text
+C:\VICTOR\GITHUB> _
 ```
 
 ---
 
-## 📼 `CURRENTLY_WORKING_ON`
+## `C:\VICTOR\GITHUB> CURRENTLY_WORKING_ON`
 
 ```text
-╔════════════════════════════════════════════╗
-║              DEVELOPMENT MODE              ║
-╠════════════════════════════════════════════╣
-║                                            ║
-║  [████████████████░░░░] 80%                ║
-║                                            ║
-║  Learning React                            ║
-║  Building Android apps                     ║
-║  Improving JavaScript                      ║
-║  Creating new projects                     ║
-║                                            ║
-╚════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════╗
+║                 DEVELOPMENT MODE                   ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  React                                             ║
+║  [████████████████████░░░░░] 80%                  ║
+║                                                    ║
+║  JavaScript                                        ║
+║  [██████████████████░░░░░░░] 70%                  ║
+║                                                    ║
+║  Android                                           ║
+║  [███████████████░░░░░░░░░░] 60%                  ║
+║                                                    ║
+║  New Projects                                      ║
+║  [████████████░░░░░░░░░░░░░] 50%                  ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-### 🎸 `KEEP CODING. KEEP ROCKING.` 🎸
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       🎸 KEEP CODING. KEEP ROCKING. 🎸      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
 ```text
-C:\VITOR\GITHUB> exit
+C:\VICTOR\GITHUB> exit
 
 Goodbye, user.
 
 C:\_ █
 ```
+
+### `© 1990s VICTOR SILVA — ALL SYSTEMS OPERATIONAL`
 
 </div>
